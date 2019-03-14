@@ -1,0 +1,7 @@
+{
+  "name": "Django Plaid api",
+  "description": "Add an plaid payment processing to an app",
+  "frameworks": [
+    "django"
+  ]
+}
